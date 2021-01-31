@@ -1,4 +1,5 @@
-﻿// 1. Compiler errors.
+﻿// Types of errors:
+// 1. Compiler errors.
 // 2. Run-time errors.
 // 3. Logical errors (intermittant).
 
